@@ -5,7 +5,7 @@ periods of time based on the news articles linked below. They are presented
 in approximately chronological order.
 
 If you'd like to add to this list, please submit a pull request in the 
-Github repository linked above.
+[j2xl.github.io Github repository](https://github.com/j2xl/j2xl.github.io).
 
 * Twitter — [Twitter tells employees they can work from home ‘forever' — CNBC](https://www.cnbc.com/2020/05/12/twitter-tells-employees-they-can-work-from-home-forever.html) May 12, 2020
 * Square — [Square Joins Twitter In Allowing Employees To Work From Home Indefinitely
