@@ -6,13 +6,14 @@ in approximately chronological order.
 
 If you'd like to add to this list, please submit a pull request in the
 [j2xl.github.io Github repository](https://github.com/j2xl/j2xl.github.io).
-Not a Github user? Send me a tip at wfh@weill.org. Please include a credible
-source, either a company news release or an article from a news outlet.
+Not a Github user? Send me a tip at [wfh@weill.org](mailto:wfh@weill.org).
+Please include either a company news release or an article from a credible 
+news source.
 
 * Twitter — [Twitter tells employees they can work from home ‘forever' — CNBC](https://www.cnbc.com/2020/05/12/twitter-tells-employees-they-can-work-from-home-forever.html), May 12, 2020
 * Square — [Square Joins Twitter In Allowing Employees To Work From Home Indefinitely
  — CBS SF BayArea](https://sanfrancisco.cbslocal.com/2020/05/19/square-wfh-work-from-home-indefinitely-coronavirus-covid-19/), May 19, 2020
 * Shopify — [Shopify permanently moves to work-from-home model — CBC](https://www.cbc.ca/news/canada/ottawa/shopify-pandemic-staff-ottawa-1.5578614), May 21, 2020
-* Facebook — [Facebook's Zuckerberg says employees will be able to work from home permanently — CNET](https://www.cnet.com/news/facebooks-zuckerberg-says-employees-will-be-able-to-work-from-home-permanently/), May 21, 2020
+* Facebook (some employees) — [Facebook's Zuckerberg says employees will be able to work from home permanently — CNET](https://www.cnet.com/news/facebooks-zuckerberg-says-employees-will-be-able-to-work-from-home-permanently/), May 21, 2020
 
 Edited by [Jason Weill](http://weill.org)
