@@ -41,4 +41,5 @@ hardware development and content review will be expected to work in offices.
 
 * [Remote Work Tracker](https://lifeshack.io/remote/) by Arjun Madgavkar
 
-Edited by [Jason Weill](http://weill.org)
+Edited by [Jason Weill](http://weill.org). This site does not necessarily
+reflect the opinions of Salesforce.com, my employer.
