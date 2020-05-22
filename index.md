@@ -16,12 +16,12 @@ culture.
 Employees that do not have a job that requires physical presence, such as
 server administrators, will be permitted to work from home indefinitely.
 
-[Twitter tells employees they can work from home ‘forever' — CNBC](https://www.cnbc.com/2020/05/12/twitter-tells-employees-they-can-work-from-home-forever.html), May 12, 2020
+[Twitter Will Allow Employees To Work At Home Forever — Buzzfeed News](https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever), May 12, 2020
 
 ## Square
 > “We want employees to be able to work where they feel most creative and productive,” a company spokesperson told *The Verge*. “Moving forward, Squares will be able to work from home permanently, even once offices begin to reopen. Over the past several weeks, we’ve learned a lot about what it takes for people to effectively perform roles outside of an office, and we will continue to learn as we go.”
 
-[Square announces permanent work-from-home policy](https://www.theverge.com/2020/5/18/21261798/square-employees-work-from-home-remote-premanent-policy-ceo), May 18, 2020
+[Square announces permanent work-from-home policy — The Verge](https://www.theverge.com/2020/5/18/21261798/square-employees-work-from-home-remote-premanent-policy-ceo), May 18, 2020
 
 ## Shopify
 "We will keep our offices closed until 2021 so that we can rework them for this new reality. And after that, most will permanently work remotely. Office centricity is over." — Tobi Lutke, CEO
