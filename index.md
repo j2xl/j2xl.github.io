@@ -37,6 +37,14 @@ hardware development and content review will be expected to work in offices.
 
 [Facebook's Zuckerberg says employees will be able to work from home permanently — CNET](https://www.cnet.com/news/facebooks-zuckerberg-says-employees-will-be-able-to-work-from-home-permanently/), May 21, 2020
 
+## Groupe PSA
+Groupe PSA is a French automaker which owns the Peugeot, Citroën, DS, Opel and
+Vauxhall brands. Its non-production staff will work remotely. The company also
+plans to reduce its real estate footprint.
+
+[These companies plan to make working from home the new normal. As in forever — CNN](https://www.cnn.com/2020/05/22/tech/work-from-home-companies/index.html),
+May 22, 2020
+
 # See also
 
 * [Remote Work Tracker](https://lifeshack.io/remote/) by Arjun Madgavkar
