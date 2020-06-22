@@ -45,6 +45,11 @@ plans to reduce its real estate footprint.
 [These companies plan to make working from home the new normal. As in forever — CNN](https://www.cnn.com/2020/05/22/tech/work-from-home-companies/index.html),
 May 22, 2020
 
+## Slack
+"Slack is going to become a much more distributed company. That means most employees will have the option to work remotely on a permanent basis if they choose, and we will begin to increasingly hire employees who are permanently remote," writes Robby Kwok, Slack SVP of People.
+
+[Update on Slack office closures from Slack SVP of People Robby Kwok](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok), June 11, 2020
+
 # See also
 
 * [Remote Work Tracker](https://lifeshack.io/remote/) by Arjun Madgavkar
