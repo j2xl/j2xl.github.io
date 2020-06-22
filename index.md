@@ -50,6 +50,11 @@ May 22, 2020
 
 [Update on Slack office closures from Slack SVP of People Robby Kwok](https://slackhq.com/june-update-on-slack-office-closures-from-slack-svp-of-people-robby-kwok), June 11, 2020
 
+## Infosys
+"Over a call with Business Today, Richard Lobo, Executive Vice President, Head HR, Infosys said, 'Once things are normal, over a period of time, probably 50 per cent of employees will come to office and the rest will work from home. Moving on, 66 per cent will be in office but 33 per cent will work permanently from home.'"
+
+(https://www.businesstoday.in/current/corporate/33-of-24-lakh-infosys-employees-to-work-permanently-from-home/story/407302.html), June 22, 2020
+
 # See also
 
 * [Remote Work Tracker](https://lifeshack.io/remote/) by Arjun Madgavkar
