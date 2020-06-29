@@ -53,7 +53,13 @@ May 22, 2020
 ## Infosys
 "Over a call with Business Today, Richard Lobo, Executive Vice President, Head HR, Infosys said, 'Once things are normal, over a period of time, probably 50 per cent of employees will come to office and the rest will work from home. Moving on, 66 per cent will be in office but 33 per cent will work permanently from home.'"
 
-(https://www.businesstoday.in/current/corporate/33-of-24-lakh-infosys-employees-to-work-permanently-from-home/story/407302.html), June 22, 2020
+[Infosys mulls permanent work from home for 33-50% employees](https://www.businesstoday.in/current/corporate/33-of-24-lakh-infosys-employees-to-work-permanently-from-home/story/407302.html), June 22, 2020
+
+## Quora
+
+Adam D'Angelo writes, "Quora will be a remote-first company starting immediately, and 60% of our employees have chosen not to work from an office even after covid-19 is no longer a threat. … Remote work will be the primary orientation of our company - the default for all choices." Quora will keep its existing office in Mountain View as a space for employees who would prefer to use it.
+
+[Remote First at Quora](https://www.quora.com/q/quora/Remote-First-at-Quora), June 25, 2020
 
 # See also
 
