@@ -61,6 +61,11 @@ Adam D'Angelo writes, "Quora will be a remote-first company starting immediately
 
 [Remote First at Quora](https://www.quora.com/q/quora/Remote-First-at-Quora), June 25, 2020
 
+## Fujitsu
+"Technology firm Fujitsu has said it will halve its office space in Japan as it adapts to the 'new normal' of the coronavirus pandemic. … Staff will be able to work flexible hours, and working from home will be standard wherever possible."
+
+[Coronavirus: Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364), July 6, 2020
+
 # See also
 
 * [Remote Work Tracker](https://lifeshack.io/remote/) by Arjun Madgavkar
