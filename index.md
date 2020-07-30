@@ -66,6 +66,16 @@ Adam D'Angelo writes, "Quora will be a remote-first company starting immediately
 
 [Coronavirus: Fujitsu announces permanent work-from-home plan](https://www.bbc.com/news/business-53303364), July 6, 2020
 
+## Siemens
+"The aim is to enable employees worldwide to work on a mobile basis for an average of two or three days a week, whenever reasonable and feasible," Siemens said in a statement.
+
+[Siemens to let staff spend less time in the office permanently](https://www.yahoo.com/news/siemens-let-staff-spend-less-095947660.html), July 16, 2020
+
+## Zillow
+"Effective immediately, we will offer about 90% of our employees the flexibility to work from home as an ongoing option, at least part-time, allowing them the ability to work where they are most productive, whether that is in the office, their home, or a combination of both," writes Dan Spaulding, Zillow's Chief People Officer.
+
+[At Zillow, we’re offering most employees flexibility to WFH indefinitely](https://www.yahoo.com/news/siemens-let-staff-spend-less-095947660.html), July 29, 2020
+
 # See also
 
 * [Remote Work Tracker](https://lifeshack.io/remote/) by Arjun Madgavkar
