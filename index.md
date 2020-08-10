@@ -76,9 +76,14 @@ Adam D'Angelo writes, "Quora will be a remote-first company starting immediately
 
 [At Zillow, we’re offering most employees flexibility to WFH indefinitely](https://www.zillowgroup.com/zillow-announces-indefinite-work-from-home-policy/), July 29, 2020
 
+## Atlassian
+At the maker of Jira, Confluence, and Trello, employees can work from home indefinitely. Offices will still be available for use if desired. The company plans to track outcomes of the decision.
+
+[Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html), August 7, 2020
+
 # See also
 
-* [Remote Work Tracker](https://lifeshack.io/remote/) by Arjun Madgavkar
+* [Remote Work Tracker](https://remote.lifeshack.io/) by Arjun Madgavkar
 
 Edited by [Jason Weill](http://weill.org). This site does not necessarily
 reflect the opinions of Salesforce.com, my employer.
