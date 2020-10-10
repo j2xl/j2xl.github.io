@@ -81,6 +81,16 @@ At the maker of Jira, Confluence, and Trello, employees can work from home indef
 
 [Atlassian tells employees they can work from home forever](https://www.cnbc.com/2020/08/07/atlassian-tells-employees-they-can-work-from-home-indefinitely.html), August 7, 2020
 
+## Schroders
+The London-based fund manager will permit its staff to work from home even after the COVID-19 pandemic subsides.
+
+[PwC and Schroders will allow staff to work from home after Covid crisis](https://www.theguardian.com/business/2020/aug/17/pwc-and-schroders-staff-can-still-work-from-home-after-covid-crisis), August 17, 2020
+
+## Microsoft
+Microsoft announced that all employees who can work remotely may do so up to 50% of the time with no approval and full time with manager approval. Employees can relocate with adjustments to their compensation and benefits.
+
+[Microsoft is letting more employees work from home permanently](https://www.theverge.com/2020/10/9/21508964/microsoft-remote-work-from-home-covid-19-coronavirus), October 9, 2020
+
 # See also
 
 * [Remote Work Tracker](https://remote.lifeshack.io/) by Arjun Madgavkar
