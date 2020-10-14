@@ -91,6 +91,11 @@ Microsoft announced that all employees who can work remotely may do so up to 50%
 
 [Microsoft is letting more employees work from home permanently](https://www.theverge.com/2020/10/9/21508964/microsoft-remote-work-from-home-covid-19-coronavirus), October 9, 2020
 
+## Dropbox
+Dropbox announced a plan to make remote work the "primary experience for all employees." The company also announced a new collaborative "Studio" concept to be built from existing offices and coworking spaces. "Every employee aligned to one of our offices will have access to a Studio. To ensure a fair and consistent employee experience, we felt it was important to be prescriptive about how these spaces are used—so Dropbox Studios will be specifically for collaboration and community-building, and employees will not be able to use them for solo work."
+
+[Dropbox goes Virtual First](https://blog.dropbox.com/topics/company/dropbox-goes-virtual-first), October 13, 2020
+
 # See also
 
 * [Remote Work Tracker](https://remote.lifeshack.io/) by Arjun Madgavkar
