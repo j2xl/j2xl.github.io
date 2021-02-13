@@ -96,6 +96,12 @@ Dropbox announced a plan to make remote work the "primary experience for all emp
 
 [Dropbox goes Virtual First](https://blog.dropbox.com/topics/company/dropbox-goes-virtual-first), October 13, 2020
 
+## Spotify
+
+Spotify announced a new program called My Work Mode. "Our employees will be able to work full time from home, from the office, or a combination of the two. The exact mix of home and office work mode is a decision each employee and their manager make together."
+
+[Introducing Working From Anywhere](https://hrblog.spotify.com/2021/02/12/introducing-working-from-anywhere/), February 12, 2021
+
 # See also
 
 * [Remote Work Tracker](https://remote.lifeshack.io/) by Arjun Madgavkar
