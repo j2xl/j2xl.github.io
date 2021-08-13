@@ -102,6 +102,24 @@ Spotify announced a new program called My Work Mode. "Our employees will be able
 
 [Introducing Working From Anywhere](https://hrblog.spotify.com/2021/02/12/introducing-working-from-anywhere/), February 12, 2021
 
+## Ford
+
+"About 30,000 employees of the automaker who were shifted to remote work during the pandemic can carry on in those roles for the foreseeable future, Ford told CBS MoneyWatch. The remote option, announced to employees last week during a staff meeting, only applies to salaried office workers, not manufacturing jobs at auto plants."
+
+[Ford offering work-from-home option to 30,000 employees](https://www.cbsnews.com/news/ford-telecommute-remote-work-30000-working-from-home/), March 22, 2021
+
+## Deloitte (UK)
+
+"Deloitte is giving all of its employees in the UK the ability to choose to work from home forever as it embraces flexible working permanently."
+
+[Deloitte tells its 20,000 UK employees they can work from home forever](https://www.independent.co.uk/life-style/deloitte-work-from-home-employees-b1868977.html), June 19, 2021
+
+## LinkedIn
+
+"The majority of LinkedIn’s 16,000 employees will be allowed to work remotely full-time, the company said …, in a reversal of its previous policy."
+
+[LinkedIn says most employees can work from home forever](https://nypost.com/2021/07/29/linkedin-says-most-employees-can-work-from-home-forever/), July 29, 2021
+
 # See also
 
 * [Remote Work Tracker](https://remote.lifeshack.io/) by Arjun Madgavkar
