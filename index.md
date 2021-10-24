@@ -120,9 +120,15 @@ Spotify announced a new program called My Work Mode. "Our employees will be able
 
 [LinkedIn says most employees can work from home forever](https://nypost.com/2021/07/29/linkedin-says-most-employees-can-work-from-home-forever/), July 29, 2021
 
+## PwC (US)
+
+"PwC announced today it will allow all U.S. employees who can telework the ability to work virtually from anywhere in the continental U.S. moving forward."
+
+[PwC announces nearly 40,000 U.S. employees can work remote from anywhere in the country](https://www.cnbc.com/2021/10/01/pwc-says-us-employees-can-work-from-anywhere-in-the-country.html), October 1, 2021
+
 # See also
 
-* [Remote Work Tracker](https://remote.lifeshack.io/) by Arjun Madgavkar
+* [Remote Work Tracker](https://lifeshack.io/) by Arjun Madgavkar
 
 Edited by [Jason Weill](http://weill.org). This site does not necessarily
-reflect the opinions of Salesforce.com, my employer.
+reflect the opinions of my employer.
