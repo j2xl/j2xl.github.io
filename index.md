@@ -136,7 +136,7 @@ The online brokerage is based in Menlo Park, California, but "for a large segmen
 
 ## Airbnb
 
-"Now the home-sharing company itself will shift to a remote work model, allowing its employees to be located anywhere in the country they currently work in, CEO Brian Chesky says." — [Airbnb will let its employees live and work anywhere](https://www.npr.org/2022/04/30/1095756450/airbnb-will-let-its-employees-live-and-work-anywhere)
+"Now the home-sharing company itself will shift to a remote work model, allowing its employees to be located anywhere in the country they currently work in, CEO Brian Chesky says." — [Airbnb will let its employees live and work anywhere](https://www.npr.org/2022/04/30/1095756450/airbnb-will-let-its-employees-live-and-work-anywhere), April 28, 2022
 
 # See also
 
