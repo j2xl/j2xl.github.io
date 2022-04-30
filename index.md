@@ -126,6 +126,18 @@ Spotify announced a new program called My Work Mode. "Our employees will be able
 
 [PwC announces nearly 40,000 U.S. employees can work remote from anywhere in the country](https://www.cnbc.com/2021/10/01/pwc-says-us-employees-can-work-from-anywhere-in-the-country.html), October 1, 2021
 
+## Quinn Emanuel
+
+The company, "a white-shoe law firm based in Los Angeles, said on Monday that all of its lawyers in the United States would be allowed to work from anywhere.“ — [Plans to return to the office grow murkier by the day.](https://www.nytimes.com/2021/12/20/business/return-to-office-postponed.html), December 20, 2021
+
+## Robinhood
+
+The online brokerage is based in Menlo Park, California, but "for a large segment of Robinhood employees there will be no location or in-office requirement". — [Robinhood says it will offer permanent remote working to most employees](https://www.cnbc.com/2022/01/12/robinhood-says-it-will-offer-permanent-remote-working-to-most-employees.html), January 12, 2022
+
+## Airbnb
+
+"Now the home-sharing company itself will shift to a remote work model, allowing its employees to be located anywhere in the country they currently work in, CEO Brian Chesky says." — [Airbnb will let its employees live and work anywhere](https://www.npr.org/2022/04/30/1095756450/airbnb-will-let-its-employees-live-and-work-anywhere)
+
 # See also
 
 * [Remote Work Tracker](https://lifeshack.io/) by Arjun Madgavkar
