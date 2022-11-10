@@ -12,11 +12,17 @@ news source. I'm particularly interested in companies that formerly expected
 employees to commute to offices, not companies that have always had a WFH
 culture.
 
-## Twitter
+## ~~Twitter~~
 Employees that do not have a job that requires physical presence, such as
 server administrators, will be permitted to work from home indefinitely.
 
 [Twitter Will Allow Employees To Work At Home Forever — Buzzfeed News](https://www.buzzfeednews.com/article/alexkantrowitz/twitter-will-allow-employees-to-work-at-home-forever), May 12, 2020
+
+Following Elon Musk's acquisition of Twitter in October 2022, Musk 
+informed employees in November 2022 that they will only be able to 
+work from home permanently with the CEO's personal approval.
+
+[Musk’s First Email to Twitter Staff Ends Remote Work](https://www.bloomberg.com/news/articles/2022-11-10/musk-s-first-email-to-twitter-staff-ends-remote-work), November 10, 2022
 
 ## Square
 > “We want employees to be able to work where they feel most creative and productive,” a company spokesperson told *The Verge*. “Moving forward, Squares will be able to work from home permanently, even once offices begin to reopen. Over the past several weeks, we’ve learned a lot about what it takes for people to effectively perform roles outside of an office, and we will continue to learn as we go.”
